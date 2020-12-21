@@ -43,10 +43,16 @@ body {
     left: -20%;
   }
 
-  .bottom-pattern {
+  .bottom-cricle {
     top: 50%
   }
 }
+@media only screen and (max-width:375px) {
+  .bottom-cricle {
+    max-height:150px; 
+  }
+}
+
 
 /*************************************PROFILE-CARD*****************************/
 .card-container {
