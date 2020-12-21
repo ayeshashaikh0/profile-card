@@ -49,16 +49,12 @@ body {
 }
 @media only screen and (max-width:374px) {
   .top-cricle {
-    background-image:none;
-  }
-
-  .bottom-cricle {
-    background-image:none; 
+     display:none;
+   }
+   .bottom-cricle{
+    display:none;
   }
 }
-
-
-
 /*************************************PROFILE-CARD*****************************/
 .card-container {
   box-shadow: 8px 12px 24px rgba(0, 0, 0, 0.2);
