@@ -60,7 +60,7 @@ body {
 .upper-card {
   height: 40%;
   border-radius: 10px 10px 0 0;
-  background: url('profile-card/bg-pattern-card.svg') top 50% left 0, right 0 bottom 250px/100% no-repeat;
+  background: url('/profile-card/bg-pattern-card.svg') top 50% left 0, right 0 bottom 250px/100% no-repeat;
 }
 
 .profile {
